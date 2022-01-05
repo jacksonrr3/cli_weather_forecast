@@ -19,8 +19,11 @@
     "type": "git",
     "url": ""
   },
-  "bugs":{
+  "bugs": {
     "url": "https://",
     "email": "e.zaborshchikov@yandex.ru"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
   }
 }
