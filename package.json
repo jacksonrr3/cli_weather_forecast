@@ -7,7 +7,7 @@
   "bin": {
     "weather": "./weather.js"
   },
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,8 @@
     "email": "e.zaborshchikov@yandex.ru"
   },
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "chalk": "^5.0.0",
+    "dedent-js": "^1.0.1"
   }
 }
